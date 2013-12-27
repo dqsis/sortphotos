@@ -16,7 +16,7 @@ The script requires (as hard input):
 Where to get it
 ---------------
 
-The source code is hosted on GitHub at: [http://github.com/dqsis/csortphotos](http://github.com/dqsis/sortphotos).
+The source code is hosted on GitHub at: [http://github.com/dqsis/sortphotos](http://github.com/dqsis/sortphotos).
 
 Dependencies
 ------------
