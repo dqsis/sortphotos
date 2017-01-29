@@ -20,8 +20,8 @@ def photoDate(f):
  
 # Source, destination and error directories (hard inputs) 
 # ---------------------------------------------------------- 
-sourceDir = '/volume1/photo/dimitrios/tosort'
-destDir = '/volume1/photo/dimitrios/'
+sourceDir = '/volume1/photo/dqsis/tosort'
+destDir = '/volume1/photo/dqsis/'
 errorDir = destDir + '/unsorted/'
  
 # Initialize array with error files
